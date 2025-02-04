@@ -1,0 +1,7 @@
+#kafka-python
+#pyspark
+streamlit
+findspark
+setuptools
+six
+kafka-python-ng

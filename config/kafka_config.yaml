@@ -1,0 +1,5 @@
+bootstrap_servers: localhost:9092
+topics:
+  orders_input: orders_input
+  matched_trades: matched_trades
+  analytics_output: analytics_output
